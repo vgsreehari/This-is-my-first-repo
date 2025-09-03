@@ -1,2 +1,3 @@
-# This-is-my-first-repo
+# This-is-my-first-rep
 welcomr to my repo
+author sreehari
